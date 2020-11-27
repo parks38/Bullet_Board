@@ -1,31 +1,31 @@
 # Bullet_Board Home Page
- < 기능 구현 >
-  - 홈페이지 회원가입
-  - 회원 로그인, 로그아웃
-  - 게시글 쓰기
-  - 한 게시글 씩 보기 
-  - 게시판에 게시글 보기
-
- < 페이지 목차 >
+ <h3> 기능 구현 </h3>
+  - 홈페이지 회원가입 <br>
+  - 회원 로그인, 로그아웃 <br>
+  - 게시글 쓰기 <br>
+  - 한 게시글 씩 보기  <br>
+  - 게시판에 게시글 보기 <br>
+<br>
+<h3> 페이지 목차 </h3>
  
-  I. Home page
-    1-1 Main page
-    1-2 Index page
-  II. Music Player
-  III. 회원 가입
-  3-1. Login
-  3-1.5 LoginAction
-  3-2. Sign-Up
-  3-2.5 JoinAction 
-  3-3 User Database (user, userDAO)
-  3-4 logoutAction
-  IV. 게시판 
-  4-1 bulletin board
-  4-2 write
-  4-3 bbs DB (bbs, bbsDAO)
-  4-4 writeAction
-  4-5 view : 한페이지씩 들어가기 
-  V. Gallery page
-  
+  <h3> I. Home page </h3> <br>
+    1-1 Main page <br>
+    1-2 Index page <br>
+  <h3>II. Music Player</h3> <br>
+  <h3>III. 회원 가입 </h3><br>
+  3-1. Login <br>
+  3-1.5 LoginAction <br>
+  3-2. Sign-Up <br>
+  3-2.5 JoinAction <br> 
+  3-3 User Database (user, userDAO) <br>
+  3-4 logoutAction <br>
+  <h3>IV. 게시판 </h3> <br>
+  4-1 bulletin board <br>
+  4-2 write <br>
+  4-3 bbs DB (bbs, bbsDAO) <br>
+  4-4 writeAction <br>
+  4-5 view : 한페이지씩 들어가기  <br>
+  <h3>V. Gallery page</h3> <br>
+  <br>
   for more information : https://www.notion.so/ssunsoolzip/11-21-38aae0e3017f457b810d95373bf00aea
   
