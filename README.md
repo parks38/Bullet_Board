@@ -1,4 +1,4 @@
-# Bullet_Board Home Page
+# Bulletin_Board Home Page
  <h3> 기능 구현 </h3>
   - 홈페이지 회원가입 <br>
   - 회원 로그인, 로그아웃 <br>
